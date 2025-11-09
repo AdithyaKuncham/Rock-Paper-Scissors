@@ -25,8 +25,8 @@ To run this project locally, you will need to have the [Flutter SDK](https://flu
 
 1.  **Clone the repository:**
     ```sh
-    git clone [YOUR_REPOSITORY_URL_HERE]
-    cd [YOUR_PROJECT_FOLDER_NAME]
+    git clone https://github.com/AdithyaKuncham/Rock-Paper-Scissors
+    cd Rock-Paper-Scissors
     ```
 
 2.  **Install dependencies:**
@@ -38,3 +38,4 @@ To run this project locally, you will need to have the [Flutter SDK](https://flu
     ```sh
     flutter run
     ```
+
